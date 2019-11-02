@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		FCDA6F8C236D91A000C9ED62 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FCDA6F8B236D91A000C9ED62 /* AppDelegate.swift */; };
-		FCDA6F8E236D91A000C9ED62 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FCDA6F8D236D91A000C9ED62 /* SceneDelegate.swift */; };
 		FCDA6F90236D91A000C9ED62 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FCDA6F8F236D91A000C9ED62 /* ViewController.swift */; };
 		FCDA6F93236D91A000C9ED62 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FCDA6F91236D91A000C9ED62 /* Main.storyboard */; };
 		FCDA6F95236D91A200C9ED62 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FCDA6F94236D91A200C9ED62 /* Assets.xcassets */; };
@@ -37,7 +36,6 @@
 /* Begin PBXFileReference section */
 		FCDA6F88236D91A000C9ED62 /* aaa.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = aaa.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		FCDA6F8B236D91A000C9ED62 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		FCDA6F8D236D91A000C9ED62 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		FCDA6F8F236D91A000C9ED62 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		FCDA6F92236D91A000C9ED62 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		FCDA6F94236D91A200C9ED62 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -100,7 +98,6 @@
 			isa = PBXGroup;
 			children = (
 				FCDA6F8B236D91A000C9ED62 /* AppDelegate.swift */,
-				FCDA6F8D236D91A000C9ED62 /* SceneDelegate.swift */,
 				FCDA6F8F236D91A000C9ED62 /* ViewController.swift */,
 				FCDA6F91236D91A000C9ED62 /* Main.storyboard */,
 				FCDA6F94236D91A200C9ED62 /* Assets.xcassets */,
@@ -261,7 +258,6 @@
 			files = (
 				FCDA6F90236D91A000C9ED62 /* ViewController.swift in Sources */,
 				FCDA6F8C236D91A000C9ED62 /* AppDelegate.swift in Sources */,
-				FCDA6F8E236D91A000C9ED62 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -442,7 +438,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.example.someone.aaa;
+				PRODUCT_BUNDLE_IDENTIFIER = com.example.someone.aaassss;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -461,7 +457,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.example.someone.aaa;
+				PRODUCT_BUNDLE_IDENTIFIER = com.example.someone.aaassss;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
